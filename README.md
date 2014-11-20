@@ -20,14 +20,17 @@ Or install it yourself as:
 
 ## Usage
 1.Dise˜ne e implemente una clase para representar un examen.
+
 2.Dise˜ne e implemente una clase Ruby para presentar un examen mediante una Interfaz de Usuario.
 Las preguntas se han de mostrar ordenadas.
 Se ha de indicar si se ha respondido correctamente o no a una pregunta
+
 3.Repartir las tareas entre los miembros del Equipo de Trabajo.
 Utilizar la estructura del ‘directorio de trabajo del equipo’ generada con Bundler en pr´acticas
 anteriores.
 Todos los miembros del equipo, han de realizar al menos una confirmaci´on e incorporarla al
 repositorio compartido.
+
 TODO: Write usage instructions here
 
 adonai hernández sánchez
