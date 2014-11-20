@@ -19,21 +19,19 @@ Or install it yourself as:
     $ gem install prct07
 
 ## Usage
-1. Considere la jerarqu ́ıa de clases Ruby para representar preguntas de Seleccio ́n Simple y de Ver- dadero y Falso de pr ́acticas anteriores.
-Modif ́ıquela de manera que las instancias sean comparables.
-Utilizar la metodolog ́ıa de desarrollo dirigido por pruebas (Test Driven Development - TDD) y
-la herramienta RSpec.
-2. Considere la clase Ruby para representar y gestionar listas enlazadas (Linked List) de pr ́acticas
+1.Dise˜ne e implemente una clase para representar un examen.
+2.Dise˜ne e implemente una clase Ruby para presentar un examen mediante una Interfaz de Usuario.
+Las preguntas se han de mostrar ordenadas.
+Se ha de indicar si se ha respondido correctamente o no a una pregunta
+3.Repartir las tareas entre los miembros del Equipo de Trabajo.
+Utilizar la estructura del ‘directorio de trabajo del equipo’ generada con Bundler en pr´acticas
 anteriores.
-Modif ́ıquela de manera que las instancias sean enumerables.
-Utilizar la metodolog ́ıa de desarrollo dirigido por pruebas (Test Driven Development - TDD) y la herramienta RSpec.
-3. Repartir las tareas entre los miembros del Equipo de Trabajo.
-Utilizar la estructura del ‘directorio de trabajo del equipo’ generada con Bundler en pr ́acticas
-anteriores.
-Todos los miembros del equipo, han de realizar al menos una confirmacio ́n e incorporarla al repositorio compartido.
-
+Todos los miembros del equipo, han de realizar al menos una confirmaci´on e incorporarla al
+repositorio compartido.
 TODO: Write usage instructions here
+
 adonai hernández sánchez
+
 noé campos diaz
 ## Contributing
 
